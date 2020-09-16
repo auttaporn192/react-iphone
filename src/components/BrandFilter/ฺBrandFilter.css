@@ -1,0 +1,7 @@
+.custom-checkbox {
+    display: block;
+    position: relative;
+    padding-left: 2rem;
+    cursor: pointer;
+    user-select: none;
+  }
